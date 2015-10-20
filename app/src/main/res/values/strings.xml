@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Malang City Guide</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_resto_di_malang">Malang\'s Best Culinary Spots</string>
+    <string name="title_activity_rawon_malang">Rawon Nguling</string>
+    <string name="title_activity_hotel_di_malang">Malang\'s Best Hotels</string>
+    <string name="title_activity_activity_di_malang">Things to do in Malang</string>
+</resources>
